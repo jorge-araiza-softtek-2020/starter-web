@@ -11,3 +11,5 @@ Introduce the project
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+Giving some money to my personal account

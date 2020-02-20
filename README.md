@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 
 Giving some money to my personal account please do not forget
 Other changes
+
+### Cpyright
+
+  Putting information regarding the ciopyright

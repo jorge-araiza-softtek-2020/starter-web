@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Giving some money to my personal account
+Giving some money to my personal account please do not forget
+Other changes

@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jorge Araiza -- Devops -- @jorge-araiza
 
 # THANKS
 
-    <name>
+    To all the students
 
 # TECHNOLOGY COLOPHON
 
